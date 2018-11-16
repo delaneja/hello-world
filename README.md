@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+I wanted to see what happens when all the other stuff is deleted
